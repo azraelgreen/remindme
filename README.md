@@ -1,2 +1,2 @@
 # remindme
-remindme every 25 minutes
+remind me every 25 minutes
